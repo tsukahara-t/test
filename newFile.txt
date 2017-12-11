@@ -1,6 +1,6 @@
 add new file
 update file
-update test
+update, branch test
 
 branch test
 branch test(master)
